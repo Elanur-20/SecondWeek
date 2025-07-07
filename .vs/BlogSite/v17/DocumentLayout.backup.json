@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elanu\\OneDrive\\Masa\u00FCst\u00FC\\STAJ PROJELER\u0130\\2.HAFTA\\BlogSite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA702155-B712-4646-A85A-BAED331D0150}|BlogSite\\BlogSite.csproj|c:\\users\\elanu\\onedrive\\masa\u00FCst\u00FC\\staj projeler\u0130\\2.hafta\\blogsite\\blogsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA702155-B712-4646-A85A-BAED331D0150}|BlogSite\\BlogSite.csproj|solutionrelative:blogsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA702155-B712-4646-A85A-BAED331D0150}|BlogSite\\BlogSite.csproj|c:\\users\\elanu\\onedrive\\masa\u00FCst\u00FC\\staj projeler\u0130\\2.hafta\\blogsite\\blogsite\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EA702155-B712-4646-A85A-BAED331D0150}|BlogSite\\BlogSite.csproj|solutionrelative:blogsite\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA702155-B712-4646-A85A-BAED331D0150}|BlogSite\\BlogSite.csproj|c:\\users\\elanu\\onedrive\\masa\u00FCst\u00FC\\staj projeler\u0130\\2.hafta\\blogsite\\blogsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA702155-B712-4646-A85A-BAED331D0150}|BlogSite\\BlogSite.csproj|solutionrelative:blogsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA702155-B712-4646-A85A-BAED331D0150}|BlogSite\\BlogSite.csproj|c:\\users\\elanu\\onedrive\\masa\u00FCst\u00FC\\staj projeler\u0130\\2.hafta\\blogsite\\blogsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA702155-B712-4646-A85A-BAED331D0150}|BlogSite\\BlogSite.csproj|solutionrelative:blogsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA702155-B712-4646-A85A-BAED331D0150}|BlogSite\\BlogSite.csproj|c:\\users\\elanu\\onedrive\\masa\u00FCst\u00FC\\staj projeler\u0130\\2.hafta\\blogsite\\blogsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA702155-B712-4646-A85A-BAED331D0150}|BlogSite\\BlogSite.csproj|solutionrelative:blogsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA702155-B712-4646-A85A-BAED331D0150}|BlogSite\\BlogSite.csproj|c:\\users\\elanu\\onedrive\\masa\u00FCst\u00FC\\staj projeler\u0130\\2.hafta\\blogsite\\blogsite\\models\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA702155-B712-4646-A85A-BAED331D0150}|BlogSite\\BlogSite.csproj|solutionrelative:blogsite\\models\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA702155-B712-4646-A85A-BAED331D0150}|BlogSite\\BlogSite.csproj|c:\\users\\elanu\\onedrive\\masa\u00FCst\u00FC\\staj projeler\u0130\\2.hafta\\blogsite\\blogsite\\blogsite.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EA702155-B712-4646-A85A-BAED331D0150}|BlogSite\\BlogSite.csproj|solutionrelative:blogsite\\blogsite.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elanu\\OneDrive\\Masa\u00FCst\u00FC\\STAJ PROJELER\u0130\\2.HAFTA\\BlogSite\\BlogSite\\Program.cs",
+              "RelativeDocumentMoniker": "BlogSite\\Program.cs",
+              "ToolTip": "C:\\Users\\elanu\\OneDrive\\Masa\u00FCst\u00FC\\STAJ PROJELER\u0130\\2.HAFTA\\BlogSite\\BlogSite\\Program.cs",
+              "RelativeToolTip": "BlogSite\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:14:13.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\elanu\\OneDrive\\Masa\u00FCst\u00FC\\STAJ PROJELER\u0130\\2.HAFTA\\BlogSite\\BlogSite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BlogSite\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\elanu\\OneDrive\\Masa\u00FCst\u00FC\\STAJ PROJELER\u0130\\2.HAFTA\\BlogSite\\BlogSite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BlogSite\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T12:14:05.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlogPost.cs",
+              "DocumentMoniker": "C:\\Users\\elanu\\OneDrive\\Masa\u00FCst\u00FC\\STAJ PROJELER\u0130\\2.HAFTA\\BlogSite\\BlogSite\\Models\\BlogPost.cs",
+              "RelativeDocumentMoniker": "BlogSite\\Models\\BlogPost.cs",
+              "ToolTip": "C:\\Users\\elanu\\OneDrive\\Masa\u00FCst\u00FC\\STAJ PROJELER\u0130\\2.HAFTA\\BlogSite\\BlogSite\\Models\\BlogPost.cs",
+              "RelativeToolTip": "BlogSite\\Models\\BlogPost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:13:42.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\elanu\\OneDrive\\Masa\u00FCst\u00FC\\STAJ PROJELER\u0130\\2.HAFTA\\BlogSite\\BlogSite\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BlogSite\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\elanu\\OneDrive\\Masa\u00FCst\u00FC\\STAJ PROJELER\u0130\\2.HAFTA\\BlogSite\\BlogSite\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BlogSite\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T10:01:56.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\elanu\\OneDrive\\Masa\u00FCst\u00FC\\STAJ PROJELER\u0130\\2.HAFTA\\BlogSite\\BlogSite\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "BlogSite\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\elanu\\OneDrive\\Masa\u00FCst\u00FC\\STAJ PROJELER\u0130\\2.HAFTA\\BlogSite\\BlogSite\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "BlogSite\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-07T10:02:49.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlogSite",
+              "DocumentMoniker": "C:\\Users\\elanu\\OneDrive\\Masa\u00FCst\u00FC\\STAJ PROJELER\u0130\\2.HAFTA\\BlogSite\\BlogSite\\BlogSite.csproj",
+              "RelativeDocumentMoniker": "BlogSite\\BlogSite.csproj",
+              "ToolTip": "C:\\Users\\elanu\\OneDrive\\Masa\u00FCst\u00FC\\STAJ PROJELER\u0130\\2.HAFTA\\BlogSite\\BlogSite\\BlogSite.csproj",
+              "RelativeToolTip": "BlogSite\\BlogSite.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-07T12:11:17.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\elanu\\OneDrive\\Masa\u00FCst\u00FC\\STAJ PROJELER\u0130\\2.HAFTA\\BlogSite\\BlogSite\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BlogSite\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\elanu\\OneDrive\\Masa\u00FCst\u00FC\\STAJ PROJELER\u0130\\2.HAFTA\\BlogSite\\BlogSite\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BlogSite\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T10:00:07.983Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

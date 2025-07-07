@@ -1,0 +1,136 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem #fae4d7, 0 0 0 0.25rem #573067;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 60px;
+}
+
+.hero-section {
+    background: linear-gradient(135deg, #a485c1 0%, #764ba2 100%);
+    color: #fae4d7;
+    border-radius: 10px;
+    margin-bottom: 2rem;
+    max-width: 66.666667%; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+    .hero-section .text-primary {
+        color: #a485c1 !important;
+    }
+
+.row.justify-content-center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sidebar-container {
+    margin-top: 4rem; 
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+   
+}
+
+.card-body {
+    padding: 1.5rem;
+    color: #f5aacb;
+}
+
+.card-title {
+    font-weight: 600;
+    color: #f5aacb;
+}
+
+.card-text {
+    color: #573067;
+    text-align: justify;
+}
+
+.btn-primary {
+    background: linear-gradient(135deg, #83e1e0 0%, #ff94a8 100%);
+    border: none;
+    border-radius: 5px;
+    padding: 0.5rem 1.5rem;
+    font-weight: 500;
+}
+
+    .btn-primary:hover {
+        background: linear-gradient(135deg, #83e1e0 0%, #ff94a8 100%);
+        transform: translateY(-2px);
+        box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    }
+
+.navbar-brand {
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+
+    .navbar-brand i {
+        color: #667eea;
+        margin-right: 0.5rem;
+    }
+
+.badge {
+    font-size: 0.7rem;
+}
+
+.card-header {
+    background: linear-gradient(135deg, #fae4d7 0%, #e9ecef 100%);
+    border-bottom: 2px solid #a485c1;
+    font-weight: 600;
+}
+
+.list-unstyled li {
+    margin-bottom: 0.5rem;
+}
+
+.list-unstyled a {
+    color: #495057;
+    transition: color 0.3s ease;
+}
+
+    .list-unstyled a:hover {
+        color: #573067;
+    }
+
+.shadow-sm {
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075) !important;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+    transition: all 0.3s ease;
+}
+
+.text-muted {
+    color: #a485c1 !important;
+}
