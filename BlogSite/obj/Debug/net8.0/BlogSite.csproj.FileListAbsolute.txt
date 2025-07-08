@@ -31,3 +31,5 @@ C:\Users\elanu\OneDrive\Masaüstü\STAJ PROJELERİ\2.HAFTA\BlogSite\BlogSite\obj
 C:\Users\elanu\OneDrive\Masaüstü\STAJ PROJELERİ\2.HAFTA\BlogSite\BlogSite\obj\Debug\net8.0\BlogSite.pdb
 C:\Users\elanu\OneDrive\Masaüstü\STAJ PROJELERİ\2.HAFTA\BlogSite\BlogSite\obj\Debug\net8.0\BlogSite.genruntimeconfig.cache
 C:\Users\elanu\OneDrive\Masaüstü\STAJ PROJELERİ\2.HAFTA\BlogSite\BlogSite\obj\Debug\net8.0\ref\BlogSite.dll
+C:\Users\elanu\OneDrive\Masaüstü\STAJ PROJELERİ\2.HAFTA\BlogSite\BlogSite\obj\Debug\net8.0\BlogSite.csproj.AssemblyReference.cache
+C:\Users\elanu\OneDrive\Masaüstü\STAJ PROJELERİ\2.HAFTA\BlogSite\BlogSite\obj\Debug\net8.0\BlogSite.sourcelink.json
