@@ -10,7 +10,7 @@ namespace BlogSite.Data
         {
         }
 
-        public DbSet<Blog> BlogPosts { get; set; }
+        public DbSet<BlogPost> BlogPosts { get; set; }
         public DbSet<Post> Posts { get; set; }
 
 
