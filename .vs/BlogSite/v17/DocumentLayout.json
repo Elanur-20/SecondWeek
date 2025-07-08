@@ -1,7 +1,40 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\elanu\\OneDrive\\Masa\u00FCst\u00FC\\STAJ PROJELER\u0130\\2.HAFTA\\BlogSite\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA702155-B712-4646-A85A-BAED331D0150}|BlogSite\\BlogSite.csproj|c:\\users\\elanu\\onedrive\\masa\u00FCst\u00FC\\staj projeler\u0130\\2.hafta\\blogsite\\blogsite\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA702155-B712-4646-A85A-BAED331D0150}|BlogSite\\BlogSite.csproj|solutionrelative:blogsite\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA702155-B712-4646-A85A-BAED331D0150}|BlogSite\\BlogSite.csproj|c:\\users\\elanu\\onedrive\\masa\u00FCst\u00FC\\staj projeler\u0130\\2.hafta\\blogsite\\blogsite\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA702155-B712-4646-A85A-BAED331D0150}|BlogSite\\BlogSite.csproj|solutionrelative:blogsite\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA702155-B712-4646-A85A-BAED331D0150}|BlogSite\\BlogSite.csproj|c:\\users\\elanu\\onedrive\\masa\u00FCst\u00FC\\staj projeler\u0130\\2.hafta\\blogsite\\blogsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA702155-B712-4646-A85A-BAED331D0150}|BlogSite\\BlogSite.csproj|solutionrelative:blogsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA702155-B712-4646-A85A-BAED331D0150}|BlogSite\\BlogSite.csproj|c:\\users\\elanu\\onedrive\\masa\u00FCst\u00FC\\staj projeler\u0130\\2.hafta\\blogsite\\blogsite\\migrations\\20250708130228_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA702155-B712-4646-A85A-BAED331D0150}|BlogSite\\BlogSite.csproj|solutionrelative:blogsite\\migrations\\20250708130228_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA702155-B712-4646-A85A-BAED331D0150}|BlogSite\\BlogSite.csproj|c:\\users\\elanu\\onedrive\\masa\u00FCst\u00FC\\staj projeler\u0130\\2.hafta\\blogsite\\blogsite\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA702155-B712-4646-A85A-BAED331D0150}|BlogSite\\BlogSite.csproj|solutionrelative:blogsite\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA702155-B712-4646-A85A-BAED331D0150}|BlogSite\\BlogSite.csproj|c:\\users\\elanu\\onedrive\\masa\u00FCst\u00FC\\staj projeler\u0130\\2.hafta\\blogsite\\blogsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA702155-B712-4646-A85A-BAED331D0150}|BlogSite\\BlogSite.csproj|solutionrelative:blogsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA702155-B712-4646-A85A-BAED331D0150}|BlogSite\\BlogSite.csproj|c:\\users\\elanu\\onedrive\\masa\u00FCst\u00FC\\staj projeler\u0130\\2.hafta\\blogsite\\blogsite\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA702155-B712-4646-A85A-BAED331D0150}|BlogSite\\BlogSite.csproj|solutionrelative:blogsite\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA702155-B712-4646-A85A-BAED331D0150}|BlogSite\\BlogSite.csproj|c:\\users\\elanu\\onedrive\\masa\u00FCst\u00FC\\staj projeler\u0130\\2.hafta\\blogsite\\blogsite\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{EA702155-B712-4646-A85A-BAED331D0150}|BlogSite\\BlogSite.csproj|solutionrelative:blogsite\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +51,110 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\elanu\\OneDrive\\Masa\u00FCst\u00FC\\STAJ PROJELER\u0130\\2.HAFTA\\BlogSite\\BlogSite\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BlogSite\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\elanu\\OneDrive\\Masa\u00FCst\u00FC\\STAJ PROJELER\u0130\\2.HAFTA\\BlogSite\\BlogSite\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BlogSite\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T13:46:34.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\elanu\\OneDrive\\Masa\u00FCst\u00FC\\STAJ PROJELER\u0130\\2.HAFTA\\BlogSite\\BlogSite\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BlogSite\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\elanu\\OneDrive\\Masa\u00FCst\u00FC\\STAJ PROJELER\u0130\\2.HAFTA\\BlogSite\\BlogSite\\appsettings.Development.json",
+              "RelativeToolTip": "BlogSite\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-08T13:38:32.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\elanu\\OneDrive\\Masa\u00FCst\u00FC\\STAJ PROJELER\u0130\\2.HAFTA\\BlogSite\\BlogSite\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BlogSite\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\elanu\\OneDrive\\Masa\u00FCst\u00FC\\STAJ PROJELER\u0130\\2.HAFTA\\BlogSite\\BlogSite\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BlogSite\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T13:25:17.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\elanu\\OneDrive\\Masa\u00FCst\u00FC\\STAJ PROJELER\u0130\\2.HAFTA\\BlogSite\\BlogSite\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "BlogSite\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\elanu\\OneDrive\\Masa\u00FCst\u00FC\\STAJ PROJELER\u0130\\2.HAFTA\\BlogSite\\BlogSite\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "BlogSite\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAkwHcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T13:18:28.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\elanu\\OneDrive\\Masa\u00FCst\u00FC\\STAJ PROJELER\u0130\\2.HAFTA\\BlogSite\\BlogSite\\appsettings.json",
+              "RelativeDocumentMoniker": "BlogSite\\appsettings.json",
+              "ToolTip": "C:\\Users\\elanu\\OneDrive\\Masa\u00FCst\u00FC\\STAJ PROJELER\u0130\\2.HAFTA\\BlogSite\\BlogSite\\appsettings.json",
+              "RelativeToolTip": "BlogSite\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-08T13:10:22.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250708130228_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\elanu\\OneDrive\\Masa\u00FCst\u00FC\\STAJ PROJELER\u0130\\2.HAFTA\\BlogSite\\BlogSite\\Migrations\\20250708130228_InitialCreate.cs",
+              "RelativeDocumentMoniker": "BlogSite\\Migrations\\20250708130228_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\elanu\\OneDrive\\Masa\u00FCst\u00FC\\STAJ PROJELER\u0130\\2.HAFTA\\BlogSite\\BlogSite\\Migrations\\20250708130228_InitialCreate.cs",
+              "RelativeToolTip": "BlogSite\\Migrations\\20250708130228_InitialCreate.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwD0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T13:02:28.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elanu\\OneDrive\\Masa\u00FCst\u00FC\\STAJ PROJELER\u0130\\2.HAFTA\\BlogSite\\BlogSite\\Program.cs",
+              "RelativeDocumentMoniker": "BlogSite\\Program.cs",
+              "ToolTip": "C:\\Users\\elanu\\OneDrive\\Masa\u00FCst\u00FC\\STAJ PROJELER\u0130\\2.HAFTA\\BlogSite\\BlogSite\\Program.cs",
+              "RelativeToolTip": "BlogSite\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T12:51:02.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\elanu\\OneDrive\\Masa\u00FCst\u00FC\\STAJ PROJELER\u0130\\2.HAFTA\\BlogSite\\BlogSite\\.gitignore",
+              "RelativeDocumentMoniker": "BlogSite\\.gitignore",
+              "ToolTip": "C:\\Users\\elanu\\OneDrive\\Masa\u00FCst\u00FC\\STAJ PROJELER\u0130\\2.HAFTA\\BlogSite\\BlogSite\\.gitignore",
+              "RelativeToolTip": "BlogSite\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-08T12:50:35.23Z",
+              "EditorCaption": ""
             }
           ]
         }
